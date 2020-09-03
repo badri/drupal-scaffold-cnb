@@ -49,9 +49,6 @@ func Detect() packit.DetectFunc {
 							Launch: true,
 						},
 					},
-					{
-						Name: "npm",
-					},
 				},
 			},
 		}, nil
